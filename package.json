@@ -1,0 +1,24 @@
+{
+  "name": "hostile-aliens",
+  "version": "1.0.0",
+  "description": "This is a game created according to the following biref:",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchomeldoe/hostile-aliens.git"
+  },
+  "keywords": [],
+  "author": "Nat Robbins-Cherry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchomeldoe/hostile-aliens/issues"
+  },
+  "homepage": "https://github.com/nchomeldoe/hostile-aliens#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0",
+    "jest": "^27.0.6"
+  }
+}
