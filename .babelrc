@@ -1,0 +1,7 @@
+{
+    "env": {
+        "test": {
+            "pluigins": ["@babel/plugin-transform-modules-commonjs"]
+        }
+    }
+}

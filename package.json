@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a game created according to the following biref:",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
